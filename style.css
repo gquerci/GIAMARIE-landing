@@ -1,0 +1,65 @@
+/* Write some CSS below */
+h1{
+	font-family: 'Righteous', cursive;
+	color:#9E91FF;
+	font-size: 55px;
+	text-align: center;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px;
+
+}
+
+h2{
+	font-family: 'Staatliches', cursive;
+ 	text-align: center;	
+ 	font-size: 32px;
+}
+
+a{
+	text-decoration: none;
+	font-family: 'Righteous', cursive;
+	font-weight: 700;
+	color: #91F9FF;
+	text-align: center;
+}
+a:hover {
+	color:#9E91FF;
+}
+
+p{
+ 	font-family: 'Staatliches', cursive;
+ 	text-align: center;	
+ 	font-size: 32px;
+}
+
+.BDT img {
+	border-radius: 20px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+  	box-shadow: 4px 8px 20px rgb(234, 210, 246);
+}
+
+.container{
+
+}
+
+.banner{
+	background-image: url(images/rainbowcloud.jpg);
+	background-size: cover;
+	background-position: center;
+	box-shadow: 4px 8px 20px rgb(234, 210, 246);
+}
+#sc{
+	padding: 8px 24px;
+	background-color: pink;
+	border-radius: 4px;
+}
+
+.footer{
+	background-color: pink;
+	font-size: 35px;
+	text-align: center;	
+	margin: 20px;
+	box-shadow: 4px 8px 20px rgb(234, 210, 246);
+}
